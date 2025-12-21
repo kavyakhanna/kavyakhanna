@@ -4,11 +4,6 @@
 MS in AI | University of St Thomas, Minnesota, USA 
 </p>
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kavya-khanna2027/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kavyakhanna" height="30" width="30" /></a>&nbsp;
-</p>
-
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ---
@@ -84,18 +79,16 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 ## 📈 GitHub Stats
 
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kavyakhanna127@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
 ## 📫 Connect with Me
-- LinkedIn: [Kavya Khanna](https://www.linkedin.com/in/kavya-khanna2027/)
-- Email: kavyakhanna127@gmail.com
+<p align="center">
+<a href="https://www.linkedin.com/in/kavya-khanna2027/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kavyakhanna" height="30" width="30" /></a>&nbsp;
+ <a href="mailto:kavyakhanna127@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+<a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 

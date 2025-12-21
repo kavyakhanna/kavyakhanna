@@ -82,7 +82,7 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 
 ## 📈 GitHub Stats
 ![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavyakhanna&show_icons=true&theme=default)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakhanna&layout=compact&theme=default)
 
 ## 📫 Connect with Me
 <p align="center">

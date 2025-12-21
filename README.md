@@ -48,213 +48,39 @@
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Kavya Khanna | AI Portfolio</title>
+<h1 align="center">Hi there, I’m Kavya Khanna 👋</h1>
+<p align="center">
+Master’s student in Artificial Intelligence | Data & Software Enthusiast
+</p>
 
-    <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-    <!-- Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+---
 
-    <style>
-        :root {
-            --bg: #f4f6f8;
-            --card: #ffffff;
-            --text: #1f2937;
-            --accent: #4f46e5;
-        }
+## 🚀 Introduction
+I am a Master’s student in Artificial Intelligence with a strong foundation in software engineering and data analysis. I enjoy building data-driven solutions and applying AI to solve real-world problems.
 
-        body.dark {
-            --bg: #0f172a;
-            --card: #1e293b;
-            --text: #e5e7eb;
-            --accent: #818cf8;
-        }
+---
 
-        body {
-            margin: 0;
-            font-family: 'Poppins', sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            transition: all 0.3s ease;
-        }
+## 🔭 Currently Working On
+- MS in Artificial Intelligence
+- Machine Learning & Data Analytics projects
+- AI applications across education and business
 
-        .container {
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-        }
+---
 
-        .card {
-            background: var(--card);
-            border-radius: 20px;
-            padding: 40px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
-            animation: fadeIn 1s ease;
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(30px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        h1 {
-            font-size: 2.6rem;
-        }
-
-        h2 {
-            color: var(--accent);
-            margin-top: 40px;
-        }
-
-        /* Buttons */
-        .buttons {
-            margin: 25px 0;
-        }
-
-        .btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            padding: 12px 22px;
-            margin-right: 12px;
-            border-radius: 40px;
-            text-decoration: none;
-            font-weight: 500;
-            color: white;
-            transition: all 0.3s ease;
-        }
-
-        .btn:hover {
-            transform: translateY(-4px) scale(1.03);
-            box-shadow: 0 12px 30px rgba(0,0,0,0.25);
-        }
-
-        .linkedin { background: linear-gradient(135deg,#0A66C2,#004182); }
-        .gmail { background: linear-gradient(135deg,#EA4335,#B31412); }
-        .portfolio { background: linear-gradient(135deg,#111827,#374151); }
-
-        /* Skills */
-        .skills {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 12px;
-            margin-top: 15px;
-        }
-
-        .skill {
-            background: rgba(79,70,229,0.15);
-            color: var(--accent);
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            font-weight: 500;
-        }
-
-        /* Dark Mode Toggle */
-        .toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: var(--card);
-            border-radius: 50%;
-            padding: 14px;
-            cursor: pointer;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-            transition: transform 0.2s ease;
-        }
-
-        .toggle:hover {
-            transform: rotate(20deg);
-        }
-
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            font-size: 0.9rem;
-            opacity: 0.8;
-        }
-    </style>
-</head>
-
-<body>
-
-<div class="toggle" onclick="toggleDarkMode()">
-    <i class="fas fa-moon"></i>
-</div>
-
-<div class="container">
-    <div class="card">
-
-        <h1>Hi there, I’m Kavya Khanna 👋</h1>
-        <p>Master’s student in Artificial Intelligence with experience in software engineering and data analytics.</p>
-
-        <div class="buttons">
-            <a href="https://www.linkedin.com/" class="btn linkedin">
-                <i class="fab fa-linkedin"></i> LinkedIn
-            </a>
-            <a href="mailto:your-email@gmail.com" class="btn gmail">
-                <i class="fas fa-envelope"></i> Gmail
-            </a>
-            <a href="https://github.com/" class="btn portfolio">
-                <i class="fas fa-briefcase"></i> Portfolio
-            </a>
-        </div>
-
-        <h2>🚀 Introduction</h2>
-        <p>
-            I enjoy building intelligent, data-driven solutions and transforming complex data
-            into meaningful insights using AI, analytics, and visualization.
-        </p>
-
-        <h2>🔭 Currently Working On</h2>
-        <p>
-            • MS in Artificial Intelligence<br>
-            • Machine Learning & Data Analysis projects<br>
-            • AI applications across education and business
-        </p>
-
-        <h2>🤔 Languages</h2>
-        <div class="skills">
-            <span class="skill">Python</span>
-            <span class="skill">Java</span>
-            <span class="skill">SQL / MySQL</span>
-            <span class="skill">HTML</span>
-            <span class="skill">CSS</span>
-            <span class="skill">JavaScript</span>
-            <span class="skill">Shell Scripting</span>
-        </div>
-
-        <h2>🌱 Frameworks & Tools</h2>
-        <div class="skills">
-            <span class="skill">Pandas</span>
-            <span class="skill">NumPy</span>
-            <span class="skill">Power BI</span>
-            <span class="skill">Tableau</span>
-            <span class="skill">Jupyter</span>
-            <span class="skill">Google Colab</span>
-            <span class="skill">TensorFlow</span>
-            <span class="skill">Django</span>
-            <span class="skill">Git & GitHub</span>
-        </div>
-
-    </div>
-
-    <footer>
-        ⭐ Built with passion for AI & data
-    </footer>
-</div>
-
-<script>
-    function toggleDarkMode() {
-        document.body.classList.toggle("dark");
-    }
-</script>
-
-</body>
-</html>
+## 🤔 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColo)
 

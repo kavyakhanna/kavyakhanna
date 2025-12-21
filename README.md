@@ -50,7 +50,7 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 **Ethical AI**  
 ![Ethical AI](https://img.shields.io/badge/Ethical%20AI-F15A24?style=for-the-badge&logoColor=white) 
 ![Fairness in ML](https://img.shields.io/badge/Fairness%20in%20ML-5B2C6F?style=for-the-badge&logoColor=white)
-- my work (Must watch): https://www.linkedin.com/posts/kavya-khanna2027_recently-collaborated-with-yoxan-sangare-activity-7408588503174844416-MZKt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI00mIBHtVO8Q-cOhWWzePQjH0XJPYFzJM 
+My work (Must watch): https://www.linkedin.com/posts/kavya-khanna2027_recently-collaborated-with-yoxan-sangare-activity-7408588503174844416-MZKt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI00mIBHtVO8Q-cOhWWzePQjH0XJPYFzJM 
 
 ## 📌 Featured Projects
 

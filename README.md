@@ -59,7 +59,7 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 - Applied statistical testing and data visualisation
 - Tools: Python, Pandas, Matplotlib
 
-### 🚗 Craigslist Car Data Analysis ( https://github.com/UST-631/eda-data-viz-kavyakhanna )
+### 🚗 Craigslist Car Data Analysis ( https://github.com/kavyakhanna/Craglist-Car-listings-2 )
 - Collected and cleaned 2,421+ car listings from Craigslist by handling missing values, duplicates, inconsistent formats, and invalid entries
 - Performed data preprocessing, including type conversions, outlier detection, and reduced missingness by ~90% using appropriate imputation techniques
 - Conducted exploratory data analysis (EDA) to identify trends in car prices, mileage, models, and geographic locations

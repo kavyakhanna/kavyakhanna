@@ -87,7 +87,9 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 <p align="center">
 <a href="https://www.linkedin.com/in/kavya-khanna2027/" target="blank"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0e41cf37-bc5b-4800-884a-f920abe6876d" /></a>
  <a href="mailto:kavyakhanna127@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" width="4" 
+       height="4" 
+       alt="LinkedIn"/>
   </a>
 <a href="https://github.com/kavyakhanna">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white"/>

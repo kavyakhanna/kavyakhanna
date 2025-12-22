@@ -66,7 +66,7 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 - Applied statistical inference methods, including permutation tests, hypothesis testing, and bootstrapping, to evaluate differences in car condition and pricing
 - Tools: Python, Pandas, NumPy, Matplotlib
 
-### 🏦 Credit Union History Data Analysis ( https://github.com/UST-631/assignment-bootstrapping-kavyakhanna )
+### 🏦 Credit Union History Data Analysis ( https://github.com/kavyakhanna/Credit-Union-History-Data-Analysis )
 - Analysed a 2,400-response credit union survey to study regional attitudes and behavioural trends
 - Applied bootstrapping and permutation tests to estimate confidence intervals and compare group differences
 - Cleaned and processed real-world survey data and engineered new features (e.g., a progressivism index)

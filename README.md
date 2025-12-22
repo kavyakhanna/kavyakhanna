@@ -54,7 +54,7 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 
 ## 📌 Featured Projects
 
-### 📊 S&P 500 Sector Profitability Analysis ( https://github.com/kavyakhanna/SP-500-Financial-Analysis/tree/main )
+### 📊 S&P 500 Sector Profitability Analysis ( https://github.com/kavyakhanna/SP-500-Financial-Analysis )
 - Analysed sector-wise EBITDA and market capitalisation
 - Applied statistical testing and data visualisation
 - Tools: Python, Pandas, Matplotlib

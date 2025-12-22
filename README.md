@@ -50,23 +50,23 @@ I am a Master’s student in Artificial Intelligence with a strong foundation in
 **Ethical AI**  
 ![Ethical AI](https://img.shields.io/badge/Ethical%20AI-F15A24?style=for-the-badge&logoColor=white) 
 ![Fairness in ML](https://img.shields.io/badge/Fairness%20in%20ML-5B2C6F?style=for-the-badge&logoColor=white)
-My work (Must watch): https://www.linkedin.com/posts/kavya-khanna2027_recently-collaborated-with-yoxan-sangare-activity-7408588503174844416-MZKt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI00mIBHtVO8Q-cOhWWzePQjH0XJPYFzJM 
+[Must watch] ( https://www.linkedin.com/posts/kavya-khanna2027_recently-collaborated-with-yoxan-sangare-activity-7408588503174844416-MZKt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI00mIBHtVO8Q-cOhWWzePQjH0XJPYFzJM )
 
 ## 📌 Featured Projects
 
-### 📊 S&P 500 Sector Profitability Analysis [ https://github.com/kavyakhanna/SP-500-Financial-Analysis/tree/main ]
+### 📊 S&P 500 Sector Profitability Analysis ( https://github.com/kavyakhanna/SP-500-Financial-Analysis/tree/main )
 - Analysed sector-wise EBITDA and market capitalisation
 - Applied statistical testing and data visualisation
 - Tools: Python, Pandas, Matplotlib
 
-### 🚗 Craigslist Car Data Analysis [ https://github.com/UST-631/eda-data-viz-kavyakhanna ]
+### 🚗 Craigslist Car Data Analysis ( https://github.com/UST-631/eda-data-viz-kavyakhanna )
 - Collected and cleaned 2,421+ car listings from Craigslist by handling missing values, duplicates, inconsistent formats, and invalid entries
 - Performed data preprocessing, including type conversions, outlier detection, and reduced missingness by ~90% using appropriate imputation techniques
 - Conducted exploratory data analysis (EDA) to identify trends in car prices, mileage, models, and geographic locations
 - Applied statistical inference methods, including permutation tests, hypothesis testing, and bootstrapping, to evaluate differences in car condition and pricing
 - Tools: Python, Pandas, NumPy, Matplotlib
 
-### 🏦 Credit Union History Data Analysis [ https://github.com/UST-631/assignment-bootstrapping-kavyakhanna ]
+### 🏦 Credit Union History Data Analysis ( https://github.com/UST-631/assignment-bootstrapping-kavyakhanna )
 - Analysed a 2,400-response credit union survey to study regional attitudes and behavioural trends
 - Applied bootstrapping and permutation tests to estimate confidence intervals and compare group differences
 - Cleaned and processed real-world survey data and engineered new features (e.g., a progressivism index)

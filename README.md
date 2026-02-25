@@ -5,7 +5,7 @@ MS in AI | University of St Thomas, Minnesota, USA
 </p>
 
 ## 🚀 Introduction
-I am a Master’s student in Artificial Intelligence with a strong foundation in software engineering and data analysis, with 2.5 years of industry experience. 
+I am a Master’s student in Artificial Intelligence with a strong foundation in software engineering and data analysis, with 3+ years of industry experience. 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Master's in Artificial Intelligence student at University of St. Thomas, Minnesota, USA 
